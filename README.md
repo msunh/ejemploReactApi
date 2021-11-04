@@ -1,5 +1,5 @@
 # Ejemplo de una app en React que consume de una API.
-Ejemplo visto en clase CIU - 2doCuatrimestre - 2021
+Ejemplo visto en clase 28/11 - CIU - 2doCuatrimestre - 2021
 
 
 
