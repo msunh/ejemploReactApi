@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Ejemplo de una app en React que consume de una API.
+Ejemplo visto en clase CIU - 2doCuatrimestre - 2021
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
